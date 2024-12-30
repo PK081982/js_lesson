@@ -6,4 +6,3 @@ number++;
 console.log(sum);
 }
  
-console.log(sum);
