@@ -1,7 +1,9 @@
 let number = 1;
-let sum=0;
+let num=0;
 while (number <= 20) {
-sum+=number;
+num+=number;
 number++;
+
 }
  
+let sum=num;
